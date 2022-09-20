@@ -13,4 +13,4 @@ jobs:
       - name: Say hello
         run: |
           echo "Hello World!"
-      - working-directory: ls
+      - working-directory: ls -l
